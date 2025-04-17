@@ -102,6 +102,10 @@ mvn test
 - Extent Report
 ![image](https://github.com/user-attachments/assets/432883fa-6835-4648-aa74-d8f0bafb66d2)
 - Jenkins
+![image](https://github.com/user-attachments/assets/f6d99889-a182-4efe-8d4f-dda160a8f772)
+
+- Webhooks (CI/CD)
+![Webhook](https://github.com/user-attachments/assets/3ffbb0ef-cc8d-4821-9634-f606ca698da3)
 
 - Cura Healthcare Service Website
 ![Homepage](https://github.com/user-attachments/assets/4bda82f7-6447-40e6-9ecc-ef6ae4747ac3)
