@@ -1,0 +1,27 @@
+[
+{
+    "username" : "John Doe",
+    "pswd" : "ThisIsNotAPassword",
+    "facilityNo" : "0",
+    "option" : "Medicaid",
+    "visitMonth" : "August 2025",
+    "day" : "27"
+},
+{
+    "username" : "John Doe",
+    "pswd" : "ThisIsNotAPassword",
+    "facilityNo" : "2",
+    "option" : "None",
+    "visitMonth" : "September 2025",
+    "day" : "17"
+}
+,
+{
+    "username" : "John Doe",
+    "pswd" : "ThisIsNotAPassword",
+    "facilityNo" : "1",
+    "option" : "Medicare",
+    "visitMonth" : "June 2025",
+    "day" : "10"
+}
+]

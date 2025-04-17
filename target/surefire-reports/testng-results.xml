@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-17T14:44:00 IST" name="Suite" finished-at="2025-04-17T14:44:44 IST" duration-ms="43891">
+    <groups>
+    </groups>
+    <test started-at="2025-04-17T14:44:00 IST" name="Test" finished-at="2025-04-17T14:44:44 IST" duration-ms="43891">
+      <class name="StandardFramework.Tests.MainTest">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:00 IST" name="Launch" finished-at="2025-04-17T14:44:16 IST" duration-ms="15264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="funtion(java.util.HashMap)[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:16 IST" name="funtion" data-provider="data" finished-at="2025-04-17T14:44:22 IST" duration-ms="6756" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{visitMonth=August 2025, facilityNo=0, pswd=ThisIsNotAPassword, day=27, username=John Doe, option=Medicaid}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtion -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:22 IST" name="closure" finished-at="2025-04-17T14:44:23 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="Launch()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:23 IST" name="Launch" finished-at="2025-04-17T14:44:29 IST" duration-ms="6371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="funtion(java.util.HashMap)[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:29 IST" name="funtion" data-provider="data" finished-at="2025-04-17T14:44:34 IST" duration-ms="4986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{visitMonth=September 2025, facilityNo=2, pswd=ThisIsNotAPassword, day=17, username=John Doe, option=None}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtion -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:34 IST" name="closure" finished-at="2025-04-17T14:44:34 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+        <test-method is-config="true" signature="Launch()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:34 IST" name="Launch" finished-at="2025-04-17T14:44:39 IST" duration-ms="5214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="funtion(java.util.HashMap)[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:39 IST" name="funtion" data-provider="data" finished-at="2025-04-17T14:44:44 IST" duration-ms="4300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{visitMonth=June 2025, facilityNo=1, pswd=ThisIsNotAPassword, day=10, username=John Doe, option=Medicare}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtion -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:StandardFramework.Tests.MainTest@59402b8f]" started-at="2025-04-17T14:44:44 IST" name="closure" finished-at="2025-04-17T14:44:44 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- StandardFramework.Tests.MainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
